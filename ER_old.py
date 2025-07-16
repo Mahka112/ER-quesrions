@@ -62,7 +62,7 @@ def main():
       should_go_to_er()
 
 if __name__ == "__main__":
-        main()
+    main()
 
 
   
